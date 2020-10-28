@@ -1,6 +1,6 @@
 # MySQL-Employee-Tracker
 
-Installation
+Installation:
 
 Download this folder with its contents onto your computer. Popular methods are clone or download.
 
