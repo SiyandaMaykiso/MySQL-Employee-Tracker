@@ -1,1 +1,1 @@
-# MySQL-Homework-Employee-Tracker
+# MySQL-Employee-Tracker
